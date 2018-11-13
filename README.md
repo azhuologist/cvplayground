@@ -1,8 +1,4 @@
-# cvplayground
-
-After taking CDS's Introduction to Machine Learning (INFO 1998) course in the spring of 2018, I wanted to explore some application areas of data science and machine learning. Computer vision is certainly a big field that uses these tools, and having held a long-time interest in the topic, I took it upon myself to learn more.
-
-This repository is a compilation of the completed and polished code snippets that I wrote while exploring the `opencv-python` library and computer vision in general. The broad time frame for this code is June 2018 - August 2018.
+# docscan
 
 ## Module Descriptions
 
